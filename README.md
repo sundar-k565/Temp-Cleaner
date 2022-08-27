@@ -1,7 +1,7 @@
-# System Cleaner
+# Temp Cleaner 
 So basically this is a python code converted to a BAT file in windows to clean temp files in our computers.
 
-# Steps
+# Steps to follow
 
 * copy this code.
 * open a notepad in windows.
