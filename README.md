@@ -1,5 +1,6 @@
-# Temp Cleaner 
-So basically this is a python code converted to a BAT file in windows to clean temp files in our computers.
+# PC Temporary Files Cleaner 
+So basically this is a python code converted to a BAT file in windows to clean Temporary files in our computers.
+It will only work on Windows.
 
 # Steps to follow
 
