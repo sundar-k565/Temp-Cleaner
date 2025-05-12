@@ -48,3 +48,18 @@ A powerful batch script to help clean up junk files, free disk space, and flush 
 
 ## 📂 File Structure
 
+- PC_Cleaner.bat
+- README.md
+- cleaner_log.txt ← (generated after script runs)
+
+
+---
+
+## 📄 License
+
+MIT License. Free to use, modify, and distribute.
+
+---
+
+Need help adding browser-specific cache clearing or an interactive menu to the script? Let me know!
+
